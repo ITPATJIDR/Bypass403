@@ -2,6 +2,11 @@
 
 Bypass URL that http status code is 403 with URL bypass payload and Header bypass payload
 
+### Install
+```sh
+git clone https://github.com/ITPATJIDR/Bypass403.git
+```
+
 ### Usage
 ```sh
 python Bypass403.py -h
