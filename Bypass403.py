@@ -72,10 +72,10 @@ def Bypass403(url403):
                 print(f"URL : [", Bypass403_URL, "] Bypass !!! ")
             else:
                 print(f"URL : [", Bypass403_URL, "] Can't Bypass T_T ")
-	
-	print("-------------------------------------------------------------------------------")
-	print("Begin Bypass with Header")
-	print("-------------------------------------------------------------------------------")
+
+        print("-------------------------------------------------------------------------------")
+        print("Begin Bypass with Header")
+        print("-------------------------------------------------------------------------------")
 
         for headerbypass in Header:
             splitHeader = headerbypass.split(":")
